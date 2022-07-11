@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/.github.io/MTL-frontend/static/css/main.6b1cd187.chunk.css",
+    "main.js": "/.github.io/MTL-frontend/static/js/main.a4b68bb9.chunk.js",
+    "main.js.map": "/.github.io/MTL-frontend/static/js/main.a4b68bb9.chunk.js.map",
+    "runtime-main.js": "/.github.io/MTL-frontend/static/js/runtime-main.2ddccf32.js",
+    "runtime-main.js.map": "/.github.io/MTL-frontend/static/js/runtime-main.2ddccf32.js.map",
+    "static/js/2.7dd733ee.chunk.js": "/.github.io/MTL-frontend/static/js/2.7dd733ee.chunk.js",
+    "static/js/2.7dd733ee.chunk.js.map": "/.github.io/MTL-frontend/static/js/2.7dd733ee.chunk.js.map",
+    "index.html": "/.github.io/MTL-frontend/index.html",
+    "static/css/main.6b1cd187.chunk.css.map": "/.github.io/MTL-frontend/static/css/main.6b1cd187.chunk.css.map",
+    "static/js/2.7dd733ee.chunk.js.LICENSE.txt": "/.github.io/MTL-frontend/static/js/2.7dd733ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ddccf32.js",
+    "static/js/2.7dd733ee.chunk.js",
+    "static/css/main.6b1cd187.chunk.css",
+    "static/js/main.a4b68bb9.chunk.js"
+  ]
+}
