@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MTL-frontend/static/css/main.6b1cd187.chunk.css",
+    "main.js": "/MTL-frontend/static/js/main.a4b68bb9.chunk.js",
+    "main.js.map": "/MTL-frontend/static/js/main.a4b68bb9.chunk.js.map",
+    "runtime-main.js": "/MTL-frontend/static/js/runtime-main.f5ad0a80.js",
+    "runtime-main.js.map": "/MTL-frontend/static/js/runtime-main.f5ad0a80.js.map",
+    "static/js/2.1a91cb05.chunk.js": "/MTL-frontend/static/js/2.1a91cb05.chunk.js",
+    "static/js/2.1a91cb05.chunk.js.map": "/MTL-frontend/static/js/2.1a91cb05.chunk.js.map",
+    "index.html": "/MTL-frontend/index.html",
+    "static/css/main.6b1cd187.chunk.css.map": "/MTL-frontend/static/css/main.6b1cd187.chunk.css.map",
+    "static/js/2.1a91cb05.chunk.js.LICENSE.txt": "/MTL-frontend/static/js/2.1a91cb05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ad0a80.js",
+    "static/js/2.1a91cb05.chunk.js",
+    "static/css/main.6b1cd187.chunk.css",
+    "static/js/main.a4b68bb9.chunk.js"
+  ]
+}

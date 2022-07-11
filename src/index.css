@@ -1,0 +1,135 @@
+.comments {
+  margin-top: 0px;
+  overflow: scroll;
+}
+
+
+.comments::-webkit-scrollbar {
+  display: none;
+}
+
+.comments-title {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.comments-container {
+  margin-top: 5px;
+  overflow-y: scroll;
+  height: 100px;
+  background-color: #F5F5F5;
+}
+
+/* .comments-container::-webkit-scrollbar {
+  display: none;
+} */
+
+.comment-form-title {
+  font-size: 12px;
+}
+
+.comment-form-textarea {
+  width: 250px;
+  height: 40px;
+  /* margin-bottom: 1px; */
+  margin-top: 1px;
+  border-radius: 6px;
+  border: 1px solid;
+  outline: none;
+  resize: none;
+}
+
+.comment-form {
+  height: auto;
+  display: block;
+  /* justify-content: space-between; */
+}
+
+.comment-form-button {
+  font-size: 10px;
+  padding: 2px;
+  width: 50px;
+  background: dodgerblue;
+  border-radius: 5px;
+  color: white;
+}
+
+.but{
+  /* text-align: right; */
+  padding-left: 200px;
+  padding-top: -10px;
+}
+
+.comment-form-button:hover:enabled {
+  cursor: pointer;
+  text-decoration: none;
+  background: dodgerblue;
+}
+
+.comment-form-button:disabled {
+  opacity: 0.8;
+  cursor: default;
+}
+
+.comment-form-cancel-button {
+  margin-left: 10px;
+}
+
+.comment {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.comment-image-container {
+  margin-right: 12px;
+}
+
+.comment-image-container img {
+  border-radius: 50px;
+}
+
+.comment-right-part {
+  width: 100%;
+}
+
+.comment-content {
+  display: flex;
+  font-size: 8px;
+  font-weight: bold;
+}
+
+.comment-author {
+  margin-right: 8px;
+  font-size: 10px;
+  color: rgb(59, 130, 246);
+}
+
+.comment-text {
+  font-size: 10px;
+}
+
+.comment-actions {
+  display: flex;
+  font-size: 7px;
+  color: rgb(51, 51, 51);
+  cursor: pointer;
+  margin-top: 1px;
+}
+
+.comment-action {
+  margin-right: 8px;
+}
+
+.comment-action:hover {
+  /* text-decoration: underline; */
+  text-decoration: wavy;
+}
+
+.replies {
+  margin-top: 8px;
+  margin-bottom: -8px;
+}
+
+.comment-right-part{
+  margin-top: 0px;
+}
